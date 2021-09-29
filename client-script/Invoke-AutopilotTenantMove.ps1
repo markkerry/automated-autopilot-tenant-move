@@ -210,4 +210,4 @@ else {
     Write-host "Sucess"
 }
 
-Reset-OperatingSystem
+# Reset-OperatingSystem
